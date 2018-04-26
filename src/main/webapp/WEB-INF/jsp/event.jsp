@@ -19,7 +19,11 @@
     -->
     <!-- <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet"> -->
     <!-- /// -->
-
+<style type="text/css">
+.h1 {
+	margin-top: 50px;
+}
+</style>
 </head>
 
 <body>
