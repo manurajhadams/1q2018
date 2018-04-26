@@ -17,7 +17,7 @@
       IMPORTANT:
       This is Heroku specific styling. Remove to customize.
     -->
-    <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet">
+    <!-- <link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet"> -->
     <!-- /// -->
 
 </head>
