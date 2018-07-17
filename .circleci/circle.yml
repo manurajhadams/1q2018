@@ -1,5 +1,0 @@
-deployment:
-  prod:
-    branch: master
-    heroku:
-      appname: goal-q1-2018
