@@ -1,7 +1,6 @@
 machine:
   java:
     version: openjdk7
-
 deployment:
   prod:
     branch: master
