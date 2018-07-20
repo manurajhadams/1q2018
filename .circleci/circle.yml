@@ -2,7 +2,7 @@ machine:
   java:
     version: openjdk7
 deployment:
-  staging:
+  production:
     branch: master
     heroku:
       appname: goal-q1-2018
