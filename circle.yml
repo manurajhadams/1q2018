@@ -1,7 +1,5 @@
 deployment:
-  staging:
+  production:
     branch: master
     heroku:
       appname: goal-q1-2018
-    commands:
-      - git push -f origin master
