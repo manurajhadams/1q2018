@@ -1,3 +1,10 @@
 machine:
   java:
     version: openjdk7
+deployment:
+  production:
+    branch: master
+    heroku:
+      appname: goal-q1-2018
+	command: |
+		git push https://heroku:0f620923-8052-444a-819a-32c5883a9703@git.heroku.com/goal-q1-2018.git master
