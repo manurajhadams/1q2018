@@ -13,8 +13,8 @@
 
     <link href="//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Master Branch
-      IMPORTANT:
+    <!-- Dev Branch
+      IMPORTANT: This is Dev Branch.
       This is Heroku specific styling. Remove to customize.
     -->
     <!-- Original Master<link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet"> -->
