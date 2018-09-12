@@ -18,7 +18,7 @@
       This is Heroku specific styling. Remove to customize.
     -->
     <!-- Original Master<link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet"> -->
-    <!-- /// -->
+    <!-- //// -->
 </head>
 
 <body>
