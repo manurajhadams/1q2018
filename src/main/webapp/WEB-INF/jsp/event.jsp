@@ -13,9 +13,9 @@
 
     <link href="//netdna.bootstrapcdn.com/bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet">
 
-    <!--
-      IMPORTANT: To Conflict.
-      This is Heroku specific styling. Remove to customize. Test Commit.
+    <!-- Dev Branch. Conflict Resolved.
+      IMPORTANT: This is Dev Branch.
+      This is Heroku specific styling. Remove to customize.
     -->
     <!-- Original Master<link href="http://heroku.github.com/template-app-bootstrap/heroku.css" rel="stylesheet"> -->
     <!-- /// -->
